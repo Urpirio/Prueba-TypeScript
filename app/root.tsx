@@ -1,4 +1,5 @@
 import { Outlet,Scripts } from "react-router";
+import '~/style/tailwind.css'
 
 export default function App(){
     return(
